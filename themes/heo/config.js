@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: ''一切皆有可能',
   HEO_HERO_TITLE_4: '脚踏实地',
   HEO_HERO_TITLE_5: '仰望星空',
-  HEO_HERO_TITLE_LINK: 'm',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
